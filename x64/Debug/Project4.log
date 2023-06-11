@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\waghi\OneDrive - FAST National University\Documents\Visual Studio 2022\Project4\Project4\AdministratorLogin.h(325,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AddClass.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project4.vcxproj -> C:\Users\waghi\OneDrive - FAST National University\Documents\Visual Studio 2022\Project4\x64\Debug\Project4.exe
